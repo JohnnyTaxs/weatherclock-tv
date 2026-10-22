@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Clock</string>
+    <string name="date_format" translatable="false">EEEE d MMMM</string>
+    <string name="settings_hint">Type a city, then Search</string>
+    <string name="search">Search</string>
+    <string name="preview">Preview</string>
+    <string name="no_city">Location not found yet</string>
+    <string name="automatic">Automatic</string>
+    <string name="automatic_note">automatic location</string>
+    <string name="locating">Finding your location…</string>
+    <string name="locate_failed">Could not find your location: pick a city instead</string>
+    <string name="searching">Searching…</string>
+    <string name="no_results">No city found</string>
+    <string name="search_failed">Search failed: no connection?</string>
+</resources>
